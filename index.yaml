@@ -9,6 +9,6 @@ entries:
     name: test
     type: application
     urls:
-    - https://github.com/mattgencer/helm-chart-test/test-0.1.0.tgz
+    - https://github.com/mattgencer/helm-chart-test/releases/download/test-0.1.0.tgz
     version: 0.1.0
 generated: "2022-12-05T19:04:35.135420411-05:00"
